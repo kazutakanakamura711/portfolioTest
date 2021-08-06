@@ -1,3 +1,4 @@
 <?php 
-include_onece('index.html');
+echo 'hello';
+// include_onece('index.html');
 ?>
